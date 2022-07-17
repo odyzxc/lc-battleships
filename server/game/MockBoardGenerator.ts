@@ -10,3 +10,5 @@ class MockBoardGenerator implements BoardGenerator {
     return mockShips;
   }
 }
+
+export default MockBoardGenerator;
